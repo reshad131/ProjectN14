@@ -487,7 +487,7 @@ ul{
 }
 
 .product:hover .colors {
-    opacity: 1; /* Ürünün üzerine gelindiğinde renkler görünür hale gelsin */
+    opacity: 1; 
 }
 
 .card__about span{
